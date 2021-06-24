@@ -1,0 +1,3 @@
+steps:
+      - name: gcr.io/flutterapp1-33da7/firebase
+        args: ['deploy', '--project=flutterapp1-33da7', '--only=hosting']
